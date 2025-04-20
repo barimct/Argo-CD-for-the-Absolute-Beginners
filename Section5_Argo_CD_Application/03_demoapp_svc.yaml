@@ -8,7 +8,7 @@ metadata:
 spec:
   ports:
   - name: demoapp-ports
-    nodePort: 31000
+    nodePort: 32101
     port: 80
     protocol: TCP
     targetPort: 80
